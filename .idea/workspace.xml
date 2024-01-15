@@ -4,10 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="8858547a-5762-4ff7-93de-3dc7834d6df6" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/_posts/2024-01-16-azure.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
-    </list>
+    <list default="true" id="8858547a-5762-4ff7-93de-3dc7834d6df6" name="Changes" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -70,7 +67,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1705331406203</updated>
-      <workItem from="1705331407535" duration="1425000" />
+      <workItem from="1705331407535" duration="1897000" />
     </task>
     <servers />
   </component>
