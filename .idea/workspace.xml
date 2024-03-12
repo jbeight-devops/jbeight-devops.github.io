@@ -4,13 +4,10 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="8858547a-5762-4ff7-93de-3dc7834d6df6" name="Changes" comment="new page - git">
-      <change afterPath="$PROJECT_DIR$/_posts/2024-01-24-AKS.md" afterDir="false" />
+    <list default="true" id="8858547a-5762-4ff7-93de-3dc7834d6df6" name="Changes" comment="commit">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/_config.yml" beforeDir="false" afterPath="$PROJECT_DIR$/_config.yml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/_posts/2015-04-18-dummy.md" beforeDir="false" afterPath="$PROJECT_DIR$/_posts/2015-04-18-dummy.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/_posts/2024-01-22-postgresql.md" beforeDir="false" afterPath="$PROJECT_DIR$/_posts/2024-01-22-postgresql.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/_posts/2024-02-05-git.md" beforeDir="false" afterPath="$PROJECT_DIR$/_posts/2024-02-05-git.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/category/dev.md" beforeDir="false" afterPath="$PROJECT_DIR$/category/devlog.md" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -20,12 +17,10 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
-  <component name="GitHubPullRequestSearchHistory">{
-  &quot;lastFilter&quot;: {
-    &quot;state&quot;: &quot;OPEN&quot;,
-    &quot;assignee&quot;: &quot;jbeight-devops&quot;
+  <component name="GitHubPullRequestSearchHistory"><![CDATA[{
+  "lastFilter": {
   }
-}</component>
+}]]></component>
   <component name="GithubPullRequestsUISettings">
     <option name="selectedUrlAndAccountId">
       <UrlAndAccount>
@@ -94,7 +89,7 @@
       <workItem from="1705331407535" duration="1897000" />
       <workItem from="1705591957907" duration="11106000" />
       <workItem from="1706084875279" duration="11400000" />
-      <workItem from="1707281243233" duration="603000" />
+      <workItem from="1707281243233" duration="2564000" />
     </task>
     <task id="LOCAL-00001" summary="commit">
       <option name="closed" value="true" />
@@ -112,7 +107,15 @@
       <option name="project" value="LOCAL" />
       <updated>1707127165594</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="commit">
+      <option name="closed" value="true" />
+      <created>1707805377043</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1707805377043</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -130,8 +133,8 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="commit" />
     <MESSAGE value="new page - git" />
-    <option name="LAST_COMMIT_MESSAGE" value="new page - git" />
+    <MESSAGE value="commit" />
+    <option name="LAST_COMMIT_MESSAGE" value="commit" />
   </component>
 </project>
