@@ -25,7 +25,7 @@ bundle exec jekyll build
 
 ### Jekyll Configuration
 - **Theme**: Minimal Mistakes (v4.27.3) with "neon" skin
-- **Base URL**: `/minimal-mistakes` 
+- **Base URL**: `` (empty for GitHub Pages root domain)
 - **Site URL**: `https://jbeight-devops.github.io`
 - **Pagination**: 5 posts per page
 - **Plugins**: jekyll-paginate, jekyll-sitemap, jekyll-gist, jekyll-feed, jekyll-include-cache
