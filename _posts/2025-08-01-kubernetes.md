@@ -6,10 +6,10 @@ categories: kubernetes
 share: true
 ---
 
-<img src="/assets/images/kubernetes_flow_diagram.svg" alt="다이어그램" width="400">
-
-사용자가 Kubernetes에 배포한 웹으로 접속하는 경우  
+사용자가 Kubernetes에 배포한 웹으로 접속하는 경우를 예로 들면  
 ex. http://chatgpt.mycompany.com
+
+<img src="/assets/images/kubernetes_flow_diagram.svg" alt="다이어그램" width="400">
 
 ### Ingress & Ingress Controller
 
