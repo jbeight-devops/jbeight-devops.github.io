@@ -3,6 +3,7 @@ layout: single
 title: "AI 애플리케이션 구축 - Azure OpenAI 리소스 어디에 만들까"
 date: 2025-08-04 20:21:02 +0900
 categories: AI
+share: true
 ---
 
 ## Azure OPEN AI & Region
