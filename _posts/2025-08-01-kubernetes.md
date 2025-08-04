@@ -1,8 +1,8 @@
 ---
 layout: single
-title: "Vibecoding 똑똑하게 사용하기 #1"
+title: "[k8s] ingress/service/deployment 삼각관계"
 date: 2025-08-02 20:21:02 +0900
-categories: vibecoding
+categories: kubernetes
 share: true
 ---
 
@@ -21,7 +21,15 @@ Ingress Controller가 실제로 그 규칙에 따라 요청을 수신하고 라�
 
 ### Service
 
+Kubernetes에서는 Service를 사용해 Pod 집합을 추상화하고,  
+안정적으로 접근할 수 있도록 지원한다.
+
 ### Deployment
+
+n개의 pod가 실행되길 원한다면, Deployment를 사용하면 된다.
+
+대신 어떤 순간에는 몇 개의 Pod가 동작 중인지,  
+어떤 Pod가 정상 상태인지조차 확실히 알 수 없는 상황이 발생할 수 있다.
 
 ### Example
 
