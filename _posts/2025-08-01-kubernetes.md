@@ -9,7 +9,7 @@ share: true
 <img src="/assets/images/kubernetes_flow_diagram.svg" alt="다이어그램" width="400">
 
 사용자가 Kubernetes에 배포한 웹으로 접속하는 경우  
-http://abc.mycompany.com
+ex. http://chatgpt.mycompany.com
 
 ### Ingress & Ingress Controller
 
@@ -40,17 +40,19 @@ n개의 pod가 실행되길 원한다면, Deployment를 사용하면 된다.
 apiVersion: networking.k8s.io/v1
 kind: Ingress
 metadata:
-name: ingress-internal
+  name: ingress-internal
 spec:
-rules: - host: abc.mycompany.com
-http:
-paths: - path: /
-pathType: Prefix
-backend:
-service:
-name: chatgpt-service
-  port:
-  number: 80
+  rules:
+  - host: chatgpt.mycompany.com
+  http:
+    paths:
+    - path: /
+      pathType: Prefix
+      backend:
+        service:
+        name: chatgpt-service
+        port:
+          number: 80
 ```
 
 (아래) service.yaml

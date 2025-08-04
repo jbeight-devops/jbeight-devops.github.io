@@ -12,7 +12,7 @@
     <text x="100" y="128" text-anchor="middle" font-size="20" fill="white">🌐</text>
     
     <!-- Label -->
-    <text x="140" y="115" font-family="Arial, sans-serif" font-size="14" font-weight="bold" fill="#0f172a">Ingress Controller</text>
+    <text x="140" y="115" font-family="Arial, sans-serif" font-size="14" font-weight="bold" fill="#0f172a">Ingress</text>
     <text x="140" y="135" font-family="Arial, sans-serif" font-size="12" fill="#475569">외부 요청 수신</text>
   </g>
   
@@ -71,7 +71,7 @@
   
   <!-- External traffic indicator -->
   <g id="external-traffic">
-    <text x="30" y="30" font-family="Arial, sans-serif" font-size="12" fill="#6b7280">외부 트래픽</text>
+    <text x="30" y="30" font-family="Arial, sans-serif" font-size="12" fill="#6b7280">사용자 웹브라우저</text>
     <line x1="30" y1="35" x2="80" y2="70" stroke="#6b7280" stroke-width="2" stroke-dasharray="5,5" marker-end="url(#arrowhead)"/>
   </g>
   
