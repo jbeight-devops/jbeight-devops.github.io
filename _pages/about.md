@@ -1,16 +1,23 @@
 ---
 permalink: /about/
 title: "About"
+layout: single
+author_profile: true
 ---
-
-안녕하세요! Jekyll과 Minimal Mistakes 테마를 사용해서 블로그를 만들어보고 있습니다.
 
 ## 소개
 
-여기에 자기소개를 작성하세요.
+안녕하세요.  
+<span class="role-container">
+<span class="role-text">"Cloud Engineer"</span>
+<span class="role-text">"MIS 개발/운영"</span>
+<span class="role-text">"Data Platform 운영"</span>
+<span class="role-text">"사내 ChatGPT 운영"</span>
+</span> 하고 있습니다.
 
 ## 관심사
 
-- 웹 개발
-- Jekyll
-- GitHub Pages
+- Cloud
+- AI
+- DevOps
+- Data
