@@ -5,19 +5,12 @@ layout: single
 author_profile: true
 ---
 
-## 소개
+안녕하세요.
 
-안녕하세요.  
 <span class="role-container">
 <span class="role-text">"Cloud Engineer"</span>
-<span class="role-text">"MIS 개발/운영"</span>
-<span class="role-text">"Data Platform 운영"</span>
-<span class="role-text">"사내 ChatGPT 운영"</span>
-</span> 하고 있습니다.
-
-## 관심사
-
-- Cloud
-- AI
-- DevOps
-- Data
+<span class="role-text">"AI 서비스"</span>
+<span class="role-text">"DevOps"</span>
+<span class="role-text">"Data Platform"</span>
+<span class="role-text">"사내 시스템(MIS)"</span>
+</span> 관련 업무에 관심이 있는 얉고 넓은 Full Stack Engineer 입니다.
