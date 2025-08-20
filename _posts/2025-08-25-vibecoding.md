@@ -1,7 +1,7 @@
 ---
 layout: single
 title: "Vibecoding"
-date: 2025-08-18 13:00:00 +0900
+date: 2025-08-25 13:00:00 +0900
 categories: vibecoding
 share: true
 ---
@@ -16,6 +16,8 @@ AI 서비스를 활용해서 제안서 분석, 설계, 개발 등의 프로세�
 
 이를 계기로 ChatGPT로 질문만 하던 세상에서
 claude, genspark, gamma, cursor를 직접 사용해 보면서 시야가 넓어졌다.
+
+- {다른 참석자의 후기}
 
 ## AI Coding을 사용해보기로 했다.
 
@@ -32,6 +34,8 @@ cursor, windsurf를 사용해서 코드의 에러를 해결 해보려고 했는�
 정도현
 
 ## PRD(Product Requirements Document)
+
+- 모든 것을 문서화 하자
 
 ## claude code
 
