@@ -17,8 +17,6 @@ AI 서비스를 활용해서 제안서 분석, 설계, 개발 등의 프로세�
 이를 계기로 ChatGPT로 질문만 하던 세상에서
 claude, genspark, gamma, cursor를 직접 사용해 보면서 시야가 넓어졌다.
 
-- {다른 참석자의 후기}
-
 ## AI Coding을 사용해보기로 했다.
 
 cursor, windsurf를 사용해서 코드의 에러를 해결 해보려고 했는데,
@@ -28,10 +26,7 @@ cursor, windsurf를 사용해서 코드의 에러를 해결 해보려고 했는�
 에러나는 소스를 포기하고,
 새로 구현했더니 에러없이 원하는 기능을 완성할 수 있었다. 허허허
 
-## 1day 세미나 참석
-
-강수진 박사
-정도현
+## VibeCoding 1day 세미나 참석
 
 ## PRD(Product Requirements Document)
 
@@ -53,9 +48,10 @@ cursor, windsurf를 사용해서 코드의 에러를 해결 해보려고 했는�
 ## 제약사항
 
 무료 소진 이후에는 기다려야 한다.
-한번 단 맛을 보고 나니 못 참겠어..
+한번 단 맛을 보고 나니 못 참겠다. 흑흑
 ![Limit!](/assets/images/2025-08-18-claudelimit.png)
 
-## DevOps
+## DevOps 관련
 
-어디까지 활용할 수 있을지 확인.
+- GitHub Action을 활용한 배포 자동화
+- Commit 메시지 생성 자동화
