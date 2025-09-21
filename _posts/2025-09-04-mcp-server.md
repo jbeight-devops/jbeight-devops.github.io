@@ -28,7 +28,8 @@ FastMCP QuickStart 예제를 실행해보고, 혼자 파고 들었다.
 mcp_server.py를 배포한 Pod 에서는 응답이 잘 나왔다.
 회사 내 이런 저런 제약 사항 때문에 테스트 화면을 개발해서 Pod로 배포해서 테스트 하기로 마음 먹었다. flask 기반 웹 화면을 만들어서 AKS에 배포했다. (Vibe Coding 덕분에 이정도 PoC 화면은 금방 뚝딱 만들고 배포할 수 있다.)
 
-![에러를 해결하는 GPT와 나](./assets/images/2025-09-05-mcpserver.png)
+![에러를 해결하는 GPT와 나](/assets/images/2025-09-05-mcpserver.png)
+
 에러가 났다. 하나씩 해결했다.
 결국 배포와 웹 클라이언트에서 호출 성공했다:) 룰루
 MCP Server 의 인증관련 부분은 다시 자료를 봐야할 거 같다.
